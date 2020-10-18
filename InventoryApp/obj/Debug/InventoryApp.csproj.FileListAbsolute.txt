@@ -1,0 +1,10 @@
+C:\Users\Windows 10 Pro\source\repos\InventoryApp\InventoryApp\bin\Debug\InventoryApp.exe.config
+C:\Users\Windows 10 Pro\source\repos\InventoryApp\InventoryApp\bin\Debug\InventoryApp.exe
+C:\Users\Windows 10 Pro\source\repos\InventoryApp\InventoryApp\bin\Debug\InventoryApp.pdb
+C:\Users\Windows 10 Pro\source\repos\InventoryApp\InventoryApp\obj\Debug\InventoryApp.csprojAssemblyReference.cache
+C:\Users\Windows 10 Pro\source\repos\InventoryApp\InventoryApp\obj\Debug\InventoryApp.frmAddProduct.resources
+C:\Users\Windows 10 Pro\source\repos\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Properties.Resources.resources
+C:\Users\Windows 10 Pro\source\repos\InventoryApp\InventoryApp\obj\Debug\InventoryApp.csproj.GenerateResource.cache
+C:\Users\Windows 10 Pro\source\repos\InventoryApp\InventoryApp\obj\Debug\InventoryApp.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10 Pro\source\repos\InventoryApp\InventoryApp\obj\Debug\InventoryApp.exe
+C:\Users\Windows 10 Pro\source\repos\InventoryApp\InventoryApp\obj\Debug\InventoryApp.pdb
